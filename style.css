@@ -1,0 +1,27 @@
+body {
+    font-family: 'Baloo Da 2', cursive;
+    text-align: center;
+}
+
+.tracker {
+    width: 100%;
+}
+
+.tracker th,
+.tracker tr:nth-child(even) {
+    background-color: #eee;
+}
+
+.details {
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+.details th {
+    background-color: #eee;
+    border: 1px solid #ccc;
+}
+
+.details td {
+    border: 1px solid #ccc;
+}
