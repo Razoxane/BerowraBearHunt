@@ -6,7 +6,7 @@ body {
 }
 
 .tracker {
-    width: 90%;
+    width: 100%;
     border: 1px solid #ccc;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 .details {
-    width: 90%;
+    width: 100%;
     border: 1px solid #ccc;
 }
 
