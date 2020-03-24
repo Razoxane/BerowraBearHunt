@@ -1,5 +1,9 @@
 # Berowra Bear Hunt
-HTML pages for Berowra Bear Hunt PocketMod booklet.
+This repo contains the source HTML pages to create a Bear Hunt Tracker PocketMod.
+
+It was designed for the Berowra Bear Hunt https://www.facebook.com/BerowraBearHunt, which was developed as a social-distancing safer activity for families during the COVID-19 lockdowns in 2020.
+
+PocketMod helps you layout content to create small cut-and-fold booklets with 8 pages.
 
 ## READY MADE BOOKLET
 Download the readymade PDF [https://razoxane.github.io/BerowraBearHunt/BerowraBearHunt.pdf](https://razoxane.github.io/BerowraBearHunt/BerowraBearHunt.pdf)
