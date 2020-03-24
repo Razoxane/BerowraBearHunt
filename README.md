@@ -1,5 +1,8 @@
-# BerowraBearHunt
+# Berowra Bear Hunt
 HTML pages for Berowra Bear Hunt PocketMod booklet.
+
+## READY MADE BOOKLET
+- Download the readymade PDF https://razoxane.github.io/BerowraBearHunt/BerowraBearHunt.pdf
 
 ## HOW TO USE
 
