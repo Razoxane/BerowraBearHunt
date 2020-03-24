@@ -5,6 +5,16 @@ body {
     font-size: 110%;
 }
 
+.leading_edge {
+    padding-left: 1cm;
+    padding-right: 0;
+}
+
+.trailing_edge {
+    padding-right: 1cm;
+    padding-left: 0;
+}
+
 .tracker {
     width: 90%;
     margin: 0 auto;
@@ -19,6 +29,13 @@ body {
 .tracker th, .tracker td {
     padding: 5px 0;
 }
+
+.page {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
 
 .details {
     width: 90%;
