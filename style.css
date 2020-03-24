@@ -7,6 +7,7 @@ body {
 
 .tracker {
     width: 90%;
+    border: 1px solid #ccc;
 }
 
 .tracker th,
